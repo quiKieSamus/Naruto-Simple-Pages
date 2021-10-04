@@ -1,6 +1,6 @@
 Página para la primera tarea de la materia de Multimedia y Diseño Web.
 
-Instrucciones:
+Instrucciones puestas por el Profesor:
 
 Diseñe un sitio web que contenga 6 secciones con información de calidad , el sitio web debe tener imágenes, marquesina, menú responsivo, encabezado con su respectiva imagen, titulo y logo, pie de pagina.
 
