@@ -11,7 +11,7 @@
     border: red dashed 1px;
 }
 
-.titles {
+.titles, .name {
     font-family: 'narutoFont';
 }
 
@@ -23,5 +23,26 @@
 
 .paragraphs {
     text-align: justify;
-    margin: auto 10px;
+    border: blue 1px dashed;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.pVideo {
+    align-self: center;
+    height: 240px;
+    width: 240px;
+    border-radius: 100px;
+}
+
+.vTitle {
+    align-self: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-column: auto;
+    justify-content: center;
+    gap: 0px;
 }
