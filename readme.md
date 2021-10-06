@@ -9,5 +9,5 @@ NO esta permitido el uso de frameworks o bootstrap.
 El sitio web debe de estar hostiado en github y enviar el enlace en un archivo txt para poder revisar dicho proyecto.
 
 Por hacer:
-1. TODO.
+1. Fuente personalizada no está funcionando (Enfocarse en hacer esqueleto primero) 
 2. Echar una ojeada a la sintaxis de MD porque se me ha olvidao par co, para asi hacer bien bonito el readme.
