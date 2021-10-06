@@ -4,7 +4,7 @@
 
 @font-face { /*Font not responding*/
     font-family: 'narutoFont';
-    src: url(fonts/njnaruto.ttf);
+    src: url("/fonts/njnaruto.ttf");
 }
 
 .container {
