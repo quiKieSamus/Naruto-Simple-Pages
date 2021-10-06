@@ -3,18 +3,22 @@
 }
 
 @font-face { /*Font not responding*/
-    font-family: narutoFont;
-    src: url(fonts/njnaruto.ttf);
+    font-family: 'narutoFont';
+    src: url(/fonts/njnaruto.ttf);
 }
 
 .container {
     border: red dashed 1px;
 }
 
-.title1 {
+.titles {
+    font-family: 'narutoFont';
+}
+
+.main-title {
     border: black dashed 1px;
     text-align: center;
-    font-family: narutoFont;
+    font-family: 'narutoFont';
 }
 
 .paragraphs {
