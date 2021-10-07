@@ -8,6 +8,7 @@ NO esta permitido el uso de frameworks o bootstrap.
 
 El sitio web debe de estar hostiado en github y enviar el enlace en un archivo txt para poder revisar dicho proyecto.
 
-Por hacer:
-1. Fuente personalizada no está funcionando (Solucionado - '/fonts/font1' no 'fonts/font1') 
-2. Echar una ojeada a la sintaxis de MD porque se me ha olvidao par co, para asi hacer bien bonito el readme.
+To do:
+1. Responsive Menu
+2. Finish Page
+3. Never give up on your word!
