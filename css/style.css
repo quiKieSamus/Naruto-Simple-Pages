@@ -2,9 +2,20 @@
     box-sizing: border-box;
 }
 
+
 @font-face { /* font working locally and just in chrome */
     font-family: 'narutoFont';
     src: url("/fonts/njnaruto.ttf");
+}
+
+li:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.main-title {
+    text-align: center;
+    font-family: 'narutoFont';
 }
 
 .container, .paragraphs {
@@ -16,25 +27,26 @@
 }
 
 .menu {
-    display: flex;
-    flex-direction: row;
-    list-style: none;
     font-family: narutoFont;
-    text-align: center;
-}
-
-.item1, .item2, .item3, .item4, .item5, .item6 {
-    margin-left: 5px;
+    list-style: none;
+    display: grid;
+    gap: 20px;
+    position: fixed;
 }
 
 .titles, .name {
     font-family: 'narutoFont';
 }
 
-.main-title {
-    text-align: center;
-    font-family: 'narutoFont';
+.vTitle {
+    font-size: small;
 }
+
+.subtitle {
+    margin-bottom: 0;
+    text-align: center;
+}
+
 
 .paragraphs {
     text-align: justify;
@@ -46,9 +58,3 @@
     max-width: 18ch;
 }
 
-/* .grid-container {
-    display: grid;
-    grid-column: auto;
-    justify-content: center;
-    gap: 0px;
-} */
