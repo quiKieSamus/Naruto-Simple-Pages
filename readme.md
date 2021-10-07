@@ -12,3 +12,4 @@ To do:
 1. Responsive Menu
 2. Finish Page
 3. Never give up on your word!
+4. Fix font issue (working locally but not on github pages)
