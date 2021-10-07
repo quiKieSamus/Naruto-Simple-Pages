@@ -9,6 +9,10 @@
 
 .container {
     border: red dashed 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .menu {
@@ -17,6 +21,11 @@
     justify-content: center;
     flex-wrap: wrap;
     list-style: none;
+    font-family: narutoFont;
+}
+
+.item1, .item2, .item3, .item4, .item5, .item6 {
+    margin-left: 5px;
 }
 
 .titles, .name {
@@ -31,26 +40,18 @@
 
 .paragraphs {
     text-align: justify;
-    border: blue 1px dashed;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}
-
-.pVideo {
-    align-self: center;
-    height: 240px;
-    width: 240px;
-    border-radius: 100px;
+    border: blue 5px dashed;
+    max-width: 75ch;
 }
 
 .vTitle {
-    align-self: center;
+    text-align: center;
+    border: dashed black 1px;
 }
 
-.grid-container {
+/* .grid-container {
     display: grid;
     grid-column: auto;
     justify-content: center;
     gap: 0px;
-}
+} */
