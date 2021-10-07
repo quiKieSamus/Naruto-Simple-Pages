@@ -11,6 +11,14 @@
     border: red dashed 1px;
 }
 
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
 .titles, .name {
     font-family: 'narutoFont';
 }
