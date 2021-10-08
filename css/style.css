@@ -5,7 +5,7 @@
 
 @font-face { /* font working locally and just in chrome */
     font-family: 'narutoFont';
-    src: url("fonts/njnaruto.ttf");
+    src: url("/fonts/njnaruto.ttf");
 }
 
 li:hover {
@@ -61,7 +61,7 @@ li:hover {
 }
 
 .vTitle {
-    font-size: small;
+    font-size: 11px;
     text-align: center;
     max-width: 18ch;
 }
