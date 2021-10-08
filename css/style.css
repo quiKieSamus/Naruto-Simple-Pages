@@ -5,7 +5,7 @@
 
 @font-face { /* font working locally and just in chrome */
     font-family: 'narutoFont';
-    src: url("/fonts/njnaruto.ttf");
+    src: url("fonts/njnaruto.ttf");
 }
 
 li:hover {
