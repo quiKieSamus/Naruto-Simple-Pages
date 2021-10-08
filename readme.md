@@ -9,7 +9,7 @@ NO esta permitido el uso de frameworks o bootstrap.
 El sitio web debe de estar hostiado en github y enviar el enlace en un archivo txt para poder revisar dicho proyecto.
 
 To do:
-1. Responsive Menu
+1. Responsive Menu (Done, refer to (https://www.w3schools.com/howto/howto_js_topnav_responsive.asp))
 2. Finish Page
 3. Never give up on your word!
 4. Fix font issue (working locally but not on github pages)
