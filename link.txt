@@ -1,0 +1,15 @@
+Multimedia y Diseño Web
+Rubén González
+28288237
+
+Actividad: Diseño de Página 6 Secciones
+
+Host: https://quikiesamus.github.io/Naruto-Simple-Pages/
+
+Github: https://github.com/quiKieSamus/Naruto-Simple-Pages
+
+Comentario: Al momento de enviar esto (08/10/2021), la página no está finalizada, todavía quedan cosas por agregar. Entonces, ¿por qué envío esto si no tengo la página finalizada? Pues, no he pagado la cuota, y lo envío de una vez para prevenir el caso de que no pueda pagar la cuota de URBE. Además, el hecho de que sea hosteado en github me permite estarlo actualizando para el día de la entrega. 
+
+Espero le guste la página una vez esté completada...
+
+Muchas gracias.
