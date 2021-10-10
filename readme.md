@@ -12,4 +12,5 @@ To do:
 1. Responsive Menu (Done, refer to (https://www.w3schools.com/howto/howto_js_topnav_responsive.asp))
 2. Finish Page
 3. Never give up on your word!
-4. Fix font issue (working locally but not on github pages)
+4. Fix font issue (working locally but not on github pages) (SOLVED)
+5. Expand further on how naruto got kyuubi
