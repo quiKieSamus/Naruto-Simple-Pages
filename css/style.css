@@ -12,6 +12,16 @@
     width: 100%;
     height: auto;
 }
+
+footer {
+    background-color: black;
+}
+
+.footp {
+    color: white;
+    text-align: center;
+}
+
 li:hover {
     cursor: pointer;
     color: red;
