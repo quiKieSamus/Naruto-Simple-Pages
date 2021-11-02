@@ -3,7 +3,7 @@
 }
 
 
-@font-face { /* font working locally and just in chrome */
+@font-face { 
     font-family: 'narutoFont';
     src: url('../fonts/njnaruto.ttf') format('ttf'), url('../fonts/njnaruto.woff') format('woff');
 }
